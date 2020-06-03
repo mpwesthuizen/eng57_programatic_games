@@ -1,4 +1,4 @@
-# Create a scrabble point calculator
+# Create a scrabble.py point calculator
 
 def scrabble_calc():
     string = input("Enter the word for Scrabble points ")

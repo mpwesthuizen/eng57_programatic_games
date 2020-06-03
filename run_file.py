@@ -2,13 +2,13 @@ from fibonacci import *
 from scrabble import *
 from list_duplicates import *
 
-# run fibonacci
+# run fibonacci.py
 print(fib())
 
-# run scrabble
+# # run scrabble.py
 print(scrabble_calc())
 
-# run list_duplicates
+# run list_duplicates.py
 test = [1, 1, 1, 1, 2, 3, 3, 1, 1]
 str_test = ['a', 'a', 'a', 'a', 'b', 'c', 'c', 'a', 'e']
 
